@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/feature1",
+    "/feature2",
+    "/home"
+  ]
+}
